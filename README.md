@@ -2,7 +2,7 @@
 
 # Python Fundamentals - September 2022
 
-## Course Description
+## Course Descriptions
 
 The [https://softuni.bg/modules/106/fundamentals-module/1356) is part of the Software University internal program for comprehensive training of software engineers. The course examines fundamental programming concepts and build on the knowledge gained in the Programming Basics course. More complex programming techniques and structures are being studied such as: **arrays**, **lists**, **objects** and **classes**, **dictionaries**, **strings** and **bitwise operations**. It also includes basic software technologies, concepts and tools, such as **HTML**, **CSS**, **HTTP**, **introduction to databases**, **web technologies**, working with **GIT** and **GitHub**.
 
