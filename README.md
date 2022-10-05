@@ -11,7 +11,7 @@ The [https://softuni.bg/modules/106/fundamentals-module/1356) is part of the Sof
 - Basic syntax, conditional statement and loops
 - Data types and variables
 - Basic **HTML** & **CSS**
-- **Arrays**, **Lists** and **Associative arrays**
+- **Functions**, **Lists** and **Dictionaries**
 - **Methods**
 - **Objects** and **Classes**
 - HTTP basics
