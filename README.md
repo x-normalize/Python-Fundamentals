@@ -29,3 +29,10 @@ The [https://softuni.bg/modules/106/fundamentals-module/1356) is part of the Sof
 - Working with linear data structures
 - Basics of web development
 - Basic skills for working with HTML and CSS
+
+## Certificate
+
+https://softuni.bg/certificates/details/148827/09238dca
+![Programming Fundamentals with Python - September 2022 - Certificate](https://user-images.githubusercontent.com/94692820/206133728-fe9236b3-4c01-4e81-ac37-0e073a38312f.jpeg)
+
+
